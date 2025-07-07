@@ -1,1 +1,1 @@
-# Java.Console.Calculator
+# Patika.dev Java Console Calculator
